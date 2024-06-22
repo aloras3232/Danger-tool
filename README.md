@@ -40,8 +40,10 @@
 
 1. [Download source code zip]
 2. Extract zip
-3. Run `start.bat` To open the file
+3. Run `start` To open the file
 
 ## License
 
 Danger is licensed under the <a href="https://mit-license.org/">MIT License</a>.
+
+and i think its funny peopel selling this so here it is
